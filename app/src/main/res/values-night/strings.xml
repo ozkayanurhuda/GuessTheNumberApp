@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="guess_the_number_game">Guess The Number Game</string>
+    <string name="please_enter_a_number">Please Enter a Number</string>
+    <string name="your_guess">Your Guess</string>
+    <string name="guess">Guess</string>
+    <string name="out_of_chance" >Sorry, Out Of Chance.</string>
+    <string name="score">Score:</string>
+    <string name="icon_of_game">icon_of_game</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="guess_the_number_game">Guess The Number Game</string>
+    <string name="please_enter_a_number">Please Enter a Number</string>
+    <string name="your_guess">Your Guess</string>
+    <string name="guess">Guess</string>
+    <string name="out_of_chance" >Sorry, Out Of Chance</string>
+    <string name="try_greater">Try a Greater Number</string>
+    <string name="try_smaller">Try a Smaller Number</string>
+    <string name="score">Score:</string>
+    <string name="icon_of_game">icon_of_game</string>
+    <string name="congrats_message">Congrats, You Guessed Right!</string>
+    <string name="error_message">Please enter a number</string>
+</resources>

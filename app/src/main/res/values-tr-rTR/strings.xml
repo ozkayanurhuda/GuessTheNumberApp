@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SayıyıTahminEt</string>
+    <string name="guess_the_number_game">Guess The Number Game</string>
+    <string name="please_enter_a_number">Please Enter a Number</string>
+    <string name="your_guess">Tahminin</string>
+    <string name="guess">Tahmin</string>
+    <string name="out_of_chance" >Üzgünüm, Şansın Bitti.</string>
+    <string name="try_greater">Daha Büyük Bir Sayı Dene</string>
+    <string name="try_smaller">Daha Küçük Bir Sayı Dene</string>
+    <string name="score">Score:</string>
+    <string name="icon_of_game">icon_of_game</string>
+    <string name="congrats_message">Tebrikler, Doğru Sayıyı Bildiniz!</string>
+    <string name="error_message">Lütfen bir sayı giriniz</string>
+</resources>
